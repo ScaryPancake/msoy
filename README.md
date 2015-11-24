@@ -1,3 +1,4 @@
+TWSICommunity is adapted from the [Source] project
 This is the source code to the [Whirled] online virtual world platform.
 
 ## Abandon hope all ye who enter here
@@ -121,3 +122,4 @@ The Whirled code is released under the BSD License. See the [LICENSE] file for d
 [Postgres]: http://www.postgresql.org/
 [Whirled]: http://whirled.com/
 [servlets]: http://www.oracle.com/technetwork/java/index-jsp-135475.html
+[Source]: http://github.com/greyhavens/msoy
