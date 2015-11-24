@@ -1,4 +1,5 @@
-TWSICommunity is adapted from the [Source] project
+TWSICommunity is adapted from the [Source] project.
+
 This is the source code to the [Whirled] online virtual world platform.
 
 ## Abandon hope all ye who enter here
