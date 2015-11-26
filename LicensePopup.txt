@@ -1,0 +1,5 @@
+This will be used for the popup when the whirled server is used or created.
+
+TWSICommunity World is adapted from Whirled. See http://github.com/Greyhavens/msoy for the license.
+
+Any changes to TWSICommunity World, I will notify you of the changes made through it as the license is BSD which means I am allowed to make the changes to it.
